@@ -12,7 +12,7 @@ A modern, highly interactive, and visually stunning personal portfolio built to 
 
 <br/>
 
-### 🔗 **[View Live Demo](https://vaibhavgupta-portfolio.vercel.app/)**
+### 🔗 **[View Live Demo](https://vaibhavgupta-portfolio-delta.vercel.app/)**
 
 </div>
 
