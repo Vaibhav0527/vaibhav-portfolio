@@ -10,6 +10,10 @@ A modern, highly interactive, and visually stunning personal portfolio built to 
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)](#)
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](#)
 
+<br/>
+
+### 🔗 **[View Live Demo](https://vaibhavgupta-portfolio.vercel.app/)**
+
 </div>
 
 ## 🌟 About The Project
